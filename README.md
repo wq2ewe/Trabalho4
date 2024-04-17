@@ -9,4 +9,4 @@ As funções escores para o modelo espacial linear t-Student são fornecidas por
 
    $U_\beta=\partial{L}(\Theta)/\partial\beta=w(\delta)X^T|\Sigma|^{-1}e and U_\phi=\partial{L}(\Theta)/\partial\phi,$
 
-com o j-ésimo elemento de $U_\phi, dado por U_\phi j =\partial{L}(\theta)/\partial\phi j = -\frac{1}{2}tr(|\Sigma|^{-1}(\partial|\Sigma|/\partial\phi j))+\frac(\delta)e ^T|\Sigma|^{-1}(\partial|\Sigma|/\partial\phi j)|\Sigma|^{-1} e,para j=$
+com o j-ésimo elemento de $U_\phi, dado por U_\phi j =\partial{L}(\theta)/\partial\phi j = -\frac{1}{2}tr(|\Sigma|^{-1}(\partial|\Sigma|/\partial\phi j))+\frac(\delta)e ^T|\Sigma|^{-1}(\partial|\Sigma|/\partial\phi j)|\Sigma|^{-1} e,para j= 1,2,w(\delta)=$
