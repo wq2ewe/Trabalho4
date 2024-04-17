@@ -4,4 +4,4 @@ Para estimar os parâmetros do modelo, adaptamos um algoritmo proposto por Ander
 
 $L(\theta)=log(K_{n}(\eta))-\frac{1}{2}log|\Sigma|-\frac{1}{2\eta}(1+\eta\eta)log(1+c(\eta)\delta)$,
 
-com log(K/eta
+com log(K(\eta)
